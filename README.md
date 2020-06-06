@@ -1,0 +1,2 @@
+# Botnew
+belajar bikin bot
