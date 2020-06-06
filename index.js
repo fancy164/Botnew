@@ -48,4 +48,4 @@ client.on('message', msg => {
 
 
 
-client.login('NzE2MDkyMjYwMzY1NjMxNTIw.Xtr0PA.DXVD5dHQZaCMn-PRil_HvtT05mk');
+client.login('process.env.BOT TOKEN');
